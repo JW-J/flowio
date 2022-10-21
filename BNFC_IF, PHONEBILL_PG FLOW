@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T00:37:09.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_Q_ZVyjxPtXbkTOs1MPB" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T00:38:41.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bpD6mVJvzYS9nn6fDH1D" version="18.0.2" type="github">
   <diagram id="EXrXfa48Y82Bvnkd3f8Y" name="Page-1">
     <mxGraphModel dx="1094" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -77,9 +77,9 @@
             <mxPoint x="120" y="740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YH2g5lZAWyvu0_ugHU7R-90" value="&lt;b&gt;확인필요&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=none;" vertex="1" connectable="0" parent="YH2g5lZAWyvu0_ugHU7R-86">
+        <mxCell id="YH2g5lZAWyvu0_ugHU7R-90" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;①&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=none;fontStyle=1;labelBorderColor=none;" vertex="1" connectable="0" parent="YH2g5lZAWyvu0_ugHU7R-86">
           <mxGeometry x="0.2402" y="-2" relative="1" as="geometry">
-            <mxPoint x="-17" y="19" as="offset" />
+            <mxPoint x="-17" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YH2g5lZAWyvu0_ugHU7R-12" value="INT_L2#3" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=middle;html=1;verticalAlign=middle;aspect=fixed;align=right;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;labelPosition=left;" vertex="1" parent="1">
@@ -224,9 +224,9 @@
             <mxPoint x="110" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YH2g5lZAWyvu0_ugHU7R-89" value="&lt;b&gt;확인 필요&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=none;" vertex="1" connectable="0" parent="YH2g5lZAWyvu0_ugHU7R-88">
+        <mxCell id="YH2g5lZAWyvu0_ugHU7R-89" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;②&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=none;" vertex="1" connectable="0" parent="YH2g5lZAWyvu0_ugHU7R-88">
           <mxGeometry x="0.3017" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-13" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YH2g5lZAWyvu0_ugHU7R-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=13;fontColor=none;startArrow=diamondThin;startFill=0;endArrow=classic;endFill=1;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1">
@@ -235,7 +235,7 @@
             <mxPoint x="570" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YH2g5lZAWyvu0_ugHU7R-92" value="&lt;b&gt;확인 필요&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=none;" vertex="1" connectable="0" parent="YH2g5lZAWyvu0_ugHU7R-91">
+        <mxCell id="YH2g5lZAWyvu0_ugHU7R-92" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;③&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=none;fontStyle=1" vertex="1" connectable="0" parent="YH2g5lZAWyvu0_ugHU7R-91">
           <mxGeometry x="0.3017" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
