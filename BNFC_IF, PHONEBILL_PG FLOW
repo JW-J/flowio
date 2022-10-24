@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T00:56:10.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iXcpPejXrf5W_GpFHnPK" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T00:57:49.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QSx0fsFglEZkeFGr9fyY" version="20.4.2" type="github">
   <diagram id="EXrXfa48Y82Bvnkd3f8Y" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,8 +227,8 @@
         </mxCell>
         <mxCell id="YH2g5lZAWyvu0_ugHU7R-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=13;fontColor=none;startArrow=diamondThin;startFill=0;endArrow=classic;endFill=1;strokeColor=#001DBC;fillColor=#0050ef;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="420" as="targetPoint" />
-            <mxPoint x="670" y="420" as="sourcePoint" />
+            <mxPoint x="520" y="413" as="targetPoint" />
+            <mxPoint x="670" y="413" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YH2g5lZAWyvu0_ugHU7R-95" value="④" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=none;fontStyle=1" parent="YH2g5lZAWyvu0_ugHU7R-94" vertex="1" connectable="0">
@@ -318,26 +318,14 @@
             <mxPoint x="730" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YH2g5lZAWyvu0_ugHU7R-153" value="Active 장비에게 전달" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=#FF00FF;strokeColor=#FF00FF;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;gradientColor=#ea6b66;fontStyle=1;" parent="1" edge="1">
-          <mxGeometry x="-0.0715" y="-15" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="669.4" y="584.57" as="sourcePoint" />
-            <mxPoint x="520" y="585" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YH2g5lZAWyvu0_ugHU7R-154" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=none;strokeColor=#FF00FF;fillColor=#f8cecc;gradientColor=#ea6b66;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="560" as="sourcePoint" />
-            <mxPoint x="460" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YH2g5lZAWyvu0_ugHU7R-155" value="방화벽만 포트를 뽑은 상태" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#FF00FF;fontStyle=1" parent="YH2g5lZAWyvu0_ugHU7R-154" vertex="1" connectable="0">
-          <mxGeometry x="0.4193" y="-1" relative="1" as="geometry">
-            <mxPoint x="-81" y="13" as="offset" />
+            <mxPoint x="716.4" y="540" as="sourcePoint" />
+            <mxPoint x="716.4" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YH2g5lZAWyvu0_ugHU7R-159" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/halloween-free-1/64/01_halloween-skull-death-dead-skeleton-128.png;labelBorderColor=none;fontSize=13;fontColor=#FF00FF;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="420" y="419" width="40" height="40" as="geometry" />
+          <mxGeometry x="445" y="400" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8RzWr0tQE2FetIaU6GAF-1" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;라우팅 테이블 내 등록되지 않은 모든 트래픽은&lt;br&gt;&amp;nbsp;102번으로 가도록 되어있음&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=10;fontColor=#FF0000;labelPosition=center;verticalLabelPosition=middle;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="533" y="750" width="147" height="30" as="geometry" />
@@ -385,6 +373,12 @@
               <mxPoint x="599" y="580" />
               <mxPoint x="600" y="580" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RzWr0tQE2FetIaU6GAF-9" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontSize=13;fontColor=none;strokeColor=#FF00FF;fillColor=#f8cecc;gradientColor=#ea6b66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="423" as="sourcePoint" />
+            <mxPoint x="520" y="423" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
